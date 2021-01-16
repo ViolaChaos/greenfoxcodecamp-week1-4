@@ -3,32 +3,34 @@ main {
   text-align: center;
   font-weight: bold;
   width: 300px;
-  height: auto;
   font-family: 'Lobster', cursive;
   font-size: 24px;
-
 }
 
 main .red {
   color: #ffffff;
   background: #E67676;
   margin: 0%;
+  padding: 10px;
 }
 
 main .yellow {
   color: #ffffff;
   background: #F2F062;
   margin: 0%;
+  padding: 10px;
 }
 
 main .light-blue {
   color: #ffffff;
   background: #A9E6E6;
   margin: 0%;
+  padding: 10px;
 }
 
 main .purple {
   color: #ffffff;
   background: #7692E4;
   margin: 0%;
+  padding: 10px;
 }
